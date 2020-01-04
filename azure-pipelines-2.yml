@@ -16,4 +16,4 @@ steps:
     script: |
       javac sum.java
       
-      java AddTwoNumbers
+      java sum
